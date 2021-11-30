@@ -1,5 +1,6 @@
 #adding config.py file
 config.py
+config2.py
 
 # addional files not to track
 API_practice.ipynb
